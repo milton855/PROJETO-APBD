@@ -10,6 +10,7 @@ PROJETO:
    • Itens do trabalho: 
 
 1 - Trabalho escrito (PDF);
+
 2 - Arquivo(s) do modelo de dados;
 
 ---> Critérios de Avaliação: 
