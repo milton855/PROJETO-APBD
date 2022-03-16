@@ -18,5 +18,6 @@ d) Tecnicamente correto
 Conteúdo do trabalho:
 • Definição do sistema/escopo.
 • Modelo lógico/físico (Modelo Relacional)
-• Script SQL (Incluindo Criação de tabelas com constraints e tablespaces, Índices e Particionamento de tabelas, Criação de visões e sequências, criação de tablespaces, Usuários, Privilégios, Roles, Profiles)
+• Script SQL (Incluindo Criação de tabelas com constraints e tablespaces, Índices e Particionamento de tabelas, Criação de visões e sequências, 
+criação de tablespaces, Usuários, Privilégios, Roles, Profiles)
 • Plano de Recuperação de Desastres
